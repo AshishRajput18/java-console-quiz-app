@@ -26,10 +26,3 @@ The app presents a series of multiple-choice questions to the user, collects the
 
 ---
 
-## 📂 File Structure
-
-java-console-quiz-app/
-│
-├── QuizApp.java # Main class to run the quiz
-├── Question.java # Model class for question, options, and answer
-└── README.md # Project documentation
